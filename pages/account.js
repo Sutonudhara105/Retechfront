@@ -252,7 +252,7 @@ export default function AccountPage() {
                     >
                       <div>
                         <p style={{ fontSize: 20, fontWeight: 600 }}>
-                          User Login
+                          User/Seller Login
                         </p>
                         <Button primary onClick={login}>
                           Login with Google
